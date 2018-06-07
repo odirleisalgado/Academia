@@ -1,4 +1,4 @@
-# Projeto_Academia
+# Projeto_Academia - C#/WF
 
 Projeto em fase de desenvolvimento, que simula o funcionamento de um sistema para uma rede de academias, contendo as seguintes funcionalidades:
 
