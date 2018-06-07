@@ -1,0 +1,6 @@
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\RecepcionistaController\bin\Debug\RecepcionistaController.dll
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\RecepcionistaController\bin\Debug\RecepcionistaController.pdb
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\RecepcionistaController\obj\Debug\RecepcionistaController.csprojResolveAssemblyReference.cache
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\RecepcionistaController\obj\Debug\RecepcionistaController.csproj.CoreCompileInputs.cache
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\RecepcionistaController\obj\Debug\RecepcionistaController.dll
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\RecepcionistaController\obj\Debug\RecepcionistaController.pdb

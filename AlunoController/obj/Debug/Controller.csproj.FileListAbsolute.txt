@@ -1,0 +1,9 @@
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\AlunoController\bin\Debug\Controller.dll
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\AlunoController\bin\Debug\Controller.pdb
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\AlunoController\bin\Debug\Modelos.dll
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\AlunoController\bin\Debug\Modelos.pdb
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\AlunoController\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\AlunoController\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\AlunoController\obj\Debug\Controller.dll
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\AlunoController\obj\Debug\Controller.pdb
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\AlunoController\obj\Debug\Controller.csproj.CopyComplete

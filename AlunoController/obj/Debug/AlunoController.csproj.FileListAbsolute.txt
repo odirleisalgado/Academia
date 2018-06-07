@@ -1,0 +1,6 @@
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\AlunoController\bin\Debug\AlunoController.dll
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\AlunoController\bin\Debug\AlunoController.pdb
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\AlunoController\obj\Debug\AlunoController.csprojResolveAssemblyReference.cache
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\AlunoController\obj\Debug\AlunoController.csproj.CoreCompileInputs.cache
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\AlunoController\obj\Debug\AlunoController.dll
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\AlunoController\obj\Debug\AlunoController.pdb

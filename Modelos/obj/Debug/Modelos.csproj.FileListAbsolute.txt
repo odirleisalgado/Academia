@@ -1,0 +1,6 @@
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\Modelos\bin\Debug\Modelos.dll
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\Modelos\obj\Debug\Modelos.dll
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\Modelos\obj\Debug\Modelos.pdb
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\Modelos\obj\Debug\Modelos.csprojResolveAssemblyReference.cache

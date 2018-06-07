@@ -1,0 +1,5 @@
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\AvaliacaoController\bin\Debug\AvaliacaoController.dll
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\AvaliacaoController\bin\Debug\AvaliacaoController.pdb
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\AvaliacaoController\obj\Debug\AvaliacaoController.csproj.CoreCompileInputs.cache
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\AvaliacaoController\obj\Debug\AvaliacaoController.dll
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\AvaliacaoController\obj\Debug\AvaliacaoController.pdb

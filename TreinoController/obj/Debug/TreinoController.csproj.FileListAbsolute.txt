@@ -1,0 +1,5 @@
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\TreinoController\bin\Debug\TreinoController.dll
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\TreinoController\bin\Debug\TreinoController.pdb
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\TreinoController\obj\Debug\TreinoController.csproj.CoreCompileInputs.cache
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\TreinoController\obj\Debug\TreinoController.dll
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\TreinoController\obj\Debug\TreinoController.pdb

@@ -1,0 +1,6 @@
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\ProfessorController\bin\Debug\ProfessorController.dll
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\ProfessorController\bin\Debug\ProfessorController.pdb
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\ProfessorController\obj\Debug\ProfessorController.csprojResolveAssemblyReference.cache
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\ProfessorController\obj\Debug\ProfessorController.csproj.CoreCompileInputs.cache
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\ProfessorController\obj\Debug\ProfessorController.dll
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\ProfessorController\obj\Debug\ProfessorController.pdb

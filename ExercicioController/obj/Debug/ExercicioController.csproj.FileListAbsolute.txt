@@ -1,0 +1,5 @@
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\ExercicioController\bin\Debug\ExercicioController.dll
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\ExercicioController\bin\Debug\ExercicioController.pdb
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\ExercicioController\obj\Debug\ExercicioController.csproj.CoreCompileInputs.cache
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\ExercicioController\obj\Debug\ExercicioController.dll
+C:\Users\Odirlei\Documents\C#\ProjetoAcademia\ExercicioController\obj\Debug\ExercicioController.pdb
