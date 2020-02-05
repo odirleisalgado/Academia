@@ -12,7 +12,7 @@ Diferentes ambientes do sistema exibidos conforme tipo de usuário logado.
 
 Segue abaixo alguns tipos de usuários utilizados para realização de login:
 
-acessos
+Acessos
 
 tipo 1 = aluno
 usuário = 111111
